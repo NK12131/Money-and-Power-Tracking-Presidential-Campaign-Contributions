@@ -678,7 +678,7 @@ The analysis is delivered through five interactive Tableau dashboards representi
 
 ### Dashboard 1: Presidential Election Fundraising Overview (2020-2024)
 
-![Dashboard 1: Following the Money - Fundraising Overview](1.png)
+https://github.com/NK12131/Money-and-Power-Tracking-Presidential-Campaign-Contributions/blob/main/images/Dashboard%202.png
 
 **Analytical Purpose**
 
@@ -750,7 +750,7 @@ This foundational dashboard provides longitudinal analysis of fundraising patter
 
 ### Dashboard 2: The Donors Behind the Dollars - Profile and Composition Analysis (2020-2024)
 
-![Dashboard 2: The Donors Behind the Dollars - Profile and Composition](2.png)
+https://github.com/NK12131/Money-and-Power-Tracking-Presidential-Campaign-Contributions/blob/main/images/Dashboard%203.png
 
 **Analytical Purpose**
 
@@ -838,7 +838,7 @@ This dashboard shifts focus from "how much" to "who gives," providing comprehens
 
 ### Dashboard 3: The Geography of Political Giving - State Contribution Patterns (2020-2024)
 
-![Dashboard 3: The Geography of Political Giving - State Contribution Patterns](4.png)
+https://github.com/NK12131/Money-and-Power-Tracking-Presidential-Campaign-Contributions/blob/main/images/Dashboard%204.png
 
 **Analytical Purpose**
 
@@ -927,7 +927,7 @@ This geospatial dashboard maps the $22.06 billion in presidential campaign contr
 
 ### Dashboard 4: The War Chest - Candidate Spending Analysis (2020-2024)
 
-![Dashboard 4: The War Chest - Candidate Spending Analysis](5.png)
+https://github.com/NK12131/Money-and-Power-Tracking-Presidential-Campaign-Contributions/blob/main/images/Dashboard%205.png
 
 **Analytical Purpose**
 
@@ -1018,7 +1018,7 @@ This dashboard follows campaign funds "out the door," answering: "How do candida
 
 ### Dashboard 5: The Battleground - Geographic and Organizational Spending Patterns (2020-2024)
 
-![Dashboard 5: The Battleground - Geographic and Organizational Spending Patterns](6.png)
+https://github.com/NK12131/Money-and-Power-Tracking-Presidential-Campaign-Contributions/blob/main/images/Dashboard%206.png
 
 **Analytical Purpose**
 
