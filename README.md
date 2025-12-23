@@ -34,12 +34,12 @@ This analysis integrates data from seven principal datasets published by the Fed
 | Dataset | Content | Records | Format |
 |---------|---------|---------|--------|
 | **Individual Contributions** | Donation transactions from individuals to candidates and committees | 170M+ | CSV |
-| **Committee Master** | Committee registration data, type classification, FEC ID | N/A | CSV |
-| **Candidate Master** | Candidate information including name, party, FEC ID, office sought | N/A | CSV |
+| **Committee Master** | Committee registration data, type classification, FEC ID | 55K+ | CSV |
+| **Candidate Master** | Candidate information including name, party, FEC ID, office sought | 5K+ | CSV |
 | **Candidate Committee Expenditures** | Spending by candidate committees across all categories | 5M+ | CSV |
 | **Operating Expenditures** | Direct operating expenses and operational spending | 2M+ | CSV |
 | **Combined Opposition Data** | Aggregate opposition and support spending metrics | 1M+ | CSV |
-| **Election Outcome Data** | Election results and candidate ranking data | N/A | CSV |
+| **Election Outcome Data** | Election results and candidate ranking data | 10K+ | CSV |
 
 **Data Repository:** Federal Election Commission Bulk Data Repository (https://www.fec.gov/data/browse-data/?tab=bulk-data)
 
