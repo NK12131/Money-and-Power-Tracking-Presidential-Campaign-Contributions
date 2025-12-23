@@ -3,9 +3,6 @@
 ## Executive Summary
 
 This project presents a comprehensive analytical examination of U.S. presidential campaign finance data spanning two complete election cycles (2020-2024). Leveraging official Federal Election Commission (FEC) datasets comprising over 170 million individual contribution records, this analysis provides unprecedented transparency into campaign fundraising dynamics, donor demographics, geographic giving patterns, and strategic expenditure allocation. Through five interactive Tableau dashboards underpinned by rigorous data processing methodology, this analysis tracks $22.06 billion in contributions across 105.25 million transactions to illuminate the financial infrastructure that powers American presidential elections.
-
-**Team Members:** Nithin Kumar, Hadhge Girish Kumar, Resham Bahira, Sudhanshu Pawar, Sumit Kharche
-
 ---
 
 ## Table of Contents
