@@ -1,6 +1,3 @@
-# Money-and-Power-Tracking-Presidential-Campaign-Contributions
-Comprehensive analysis of U.S. presidential campaign finance (2020-2024) using FEC data. Explores $6B+ in contributions across five interactive Tableau dashboards, revealing fundraising patterns, donor demographics, geographic concentrations, and strategic spending decisions shaping the race for the White House.
-
 # Following the Money: U.S. Presidential Campaign Finance Analysis (2020-2024)
 
 ## Project Overview
@@ -137,6 +134,8 @@ The analysis is delivered through five interactive Tableau dashboards that tell 
 
 ### Dashboard 1: Presidential Election Fundraising Overview (2020-2024)
 
+![Dashboard 1: Following the Money - Fundraising Overview](Dashboard_1.png)
+
 **Purpose & Narrative**
 
 This foundational dashboard provides a bird's-eye view of the entire campaign finance ecosystem, answering the question: "How does fundraising surge during presidential election years?" The dashboard tracks over $6 billion in contributions across five years, revealing the dramatic momentum swings between election cycles and comparing presidential years to mid-term and off-cycle periods.
@@ -186,6 +185,8 @@ The dashboard identifies the top fundraisers across both election cycles:
 ---
 
 ### Dashboard 2: The Donors Behind the Dollars - Profile and Composition Analysis (2020-2024)
+
+![Dashboard 2: The Donors Behind the Dollars - Profile and Composition](Dashboard_2.png)
 
 **Purpose & Narrative**
 
@@ -260,6 +261,8 @@ Identifies the most active super-PACs and committees attracting the largest dona
 ---
 
 ### Dashboard 3: The Geography of Political Giving - State Contribution Patterns (2020-2024)
+
+![Dashboard 3: The Geography of Political Giving - State Contribution Patterns](Dashboard_3.png)
 
 **Purpose & Narrative**
 
@@ -341,6 +344,8 @@ Shows how states differ in small-dollar vs. large-dollar composition. California
 
 ### Dashboard 4: The War Chest - Candidate Spending Analysis (2020-2024)
 
+![Dashboard 4: The War Chest - Candidate Spending Analysis](Dashboard_4.png)
+
 **Purpose & Narrative**
 
 This dashboard follows the money out the door, answering: "How do candidates spend their war chests?" It tracks strategic allocation of campaign funds across seven spending categories, identifies top spenders, and reveals spending timelines that expose campaign strategies throughout election cycles.
@@ -409,6 +414,8 @@ Shows distribution of total spending across major candidates:
 ---
 
 ### Dashboard 5: The Battleground - Geographic and Organizational Spending Patterns (2020-2024)
+
+![Dashboard 5: The Battleground - Geographic and Organizational Spending Patterns](Dashboard_5.png)
 
 **Purpose & Narrative**
 
